@@ -1,0 +1,16 @@
+https://zoma.dev/?ref=onepagelove //snygg layout och ska sno animationen från denna sidan
+
+https://github.com/BartoszJarocki/cv denna layouten/designen tänkte jag sno :D
+
+
+
+TODO imorgon,
+
+Fixa storlek på h1 i dokumentet
+
+Fixa så att skills fade in syns vid scroll istället vid render
+
+Fixa styling på skills-blobbar
+
+
+Slutligen, hosta skiten :)
